@@ -1,2 +1,3 @@
 # calculator.cpp
 calculator for class in c++
+I had to fix the base code which contained syntax, logic, and runtime errors. This consisted of changing void main() to int main(), fixed missing semicolons, corrected cout >> to cout <<, remove stray semicolons, add braces where needed, swapped operators, make the loop condition work, and the input/output function correctly. I also added a division by zero check, used double instead of int to allow decimals and whole numbers, added in an else-if chain instead of numerous if chains, input validation for bad operators, and also added extra error messages where appropriate.
